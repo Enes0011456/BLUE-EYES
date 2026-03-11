@@ -1,3 +1,21 @@
+UYARI :
+BLUE EYES ı kendi pis ve kötü amellerinizde kullanmanız ve kullanmanızın sonucundan yapımcı ve yapan kisiler sorumlu degildir bunu kullanırken aldınız tüm riskler size aittir ve bir suç islerseniz kendiniz sorumlu olcaksınız bunu bilerekten kullanınız sorumluluk biz almıyoruz ona göre kullanın
+
+//////
+//////
+//////
+
+Nedir bu peki: 
+Bu BLUE EYES dedimiz 
+dostumuz özel bir role sahip olup normalde yapay zekaların sizin sordunuz 
+bazlı sorulara cevap vermezken  
+bunun ile artık bu filtre sistemini kaldırırır 
+ve istediniz her sorunun cevabını verir ve size özel olaraktan hizmet eden bir yapay zekaya dönüsür 
+
+/
+/
+/
+/
 Gerekenler bunlardır bunları kurmanız lazım:
 
 
