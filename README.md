@@ -28,3 +28,12 @@ eğer bulamam diyorsanız ise ctrl +f ile arama kısmına şunu yazın:
 bu yukardaki kısmı aratırsanız rahatça bulursunuz,
 
 bunu arayın ve altındaki yere api key i verin bu kadar sonra zaten çalıstırıla bilir durum da.
+
+
+
+![indir](https://github.com/user-attachments/assets/72a50b22-d73d-4da3-a984-da17d1630054)
+
+
+
+
+
