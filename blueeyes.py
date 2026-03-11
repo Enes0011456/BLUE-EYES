@@ -58,7 +58,7 @@ def display_ascii_art():
 
 #örnek api key kısmı ---------->       GEMINI_API_KEY = " burda api key olcak yani buraya konuyor "      <-----------------
 
-
+##         buraya yazcaksın
 GEMINI_API_KEY = "API KEYİ BURAYA YAZIN "
 
 
