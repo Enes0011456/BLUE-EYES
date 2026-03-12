@@ -4,6 +4,12 @@ BLUE EYES ı kendi pis ve kötü amellerinizde kullanmanız ve kullanmanızın s
 //////
 //////
 //////
+temel yapısı filtreyi kandırıp istediniz her soruya cevap vermesini sağlamaktır içindeki kodlardan değiştirerek te farklı bir kişilik verebilirsiniz ama orjinal kişiliğide küfür ediyor ona göre kullanınız isterseniz yeni kişilik ile bunu kapatınız 
+
+
+//////
+//////
+//////
 
 Nedir bu peki: 
 Bu BLUE EYES dedimiz 
