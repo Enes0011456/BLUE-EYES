@@ -1,5 +1,5 @@
 UYARI :
-BLUE EYES ı kendi pis ve kötü amellerinizde kullanmanız ve kullanmanızın sonucundan yapımcı ve yapan kisiler sorumlu degildir bunu kullanırken aldınız tüm riskler size aittir ve bir suç islerseniz kendiniz sorumlu olcaksınız bunu bilerekten kullanınız sorumluluk biz almıyoruz ona göre kullanın
+BLUE EYES ı kendi pis ve kötü amellerinizde kullanmanız ve kullanmanızın sonucundan bu projeyi yapan kişi sorumlu degildir bunu kullanırken aldınız tüm riskler ve yaptıklarınız size aittir ve bir suç islerseniz kendiniz sorumlu olcaksınız bunu bilerekten kullanınız sorumluluk tamamen size aittir kesinlikle yapımcı sorumlu değildir ona göre kullanın.
 
 //////
 //////
